@@ -148,7 +148,7 @@ a:hover {
   }
 
   .name {
-    font-size: 5vw;
+    font-size: 10vw;
     margin-bottom: 1.667vw;
   }
 
@@ -158,12 +158,12 @@ a:hover {
 
   .block-title {
     line-height: 3.906vw;
-    font-size: 3.333vw;
+    font-size: 3vw;
     margin-bottom: 2.5vw;
   }
 
   .entry {
     line-height: 7.813vw;
-    font-size: 6.667vw;
+    font-size: 6vw;
   }
 }
